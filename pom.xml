@@ -14,7 +14,7 @@
 	<name>gym-tracker</name>
 	<description>REST FOR GYM PROGRESS</description>
 	<properties>
-		<java.version>11</java.version>
+		<!-- <java.version>11</java.version> -->
 	</properties>
 	<dependencies>
 		<dependency>
